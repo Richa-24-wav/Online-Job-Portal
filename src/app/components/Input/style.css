@@ -1,0 +1,14 @@
+.input {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    border-radius: 6px;
+    border: 1px solid #CED4DA;
+    height: 40px;
+    width: 350px;
+    padding: 8px;
+}
+
+.textarea {
+    min-height: 200px;
+}

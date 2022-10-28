@@ -1,0 +1,33 @@
+.hire {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hire-vector-wrapper {
+    max-width: 250px;
+}
+
+.hire-note-wrapper {
+    max-width: 400px;
+    margin: 0 auto 50px;
+    text-align: center;
+}
+
+.hire-note-heading {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+    margin-bottom: 8px;
+}
+
+.hire-note-subheading {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-bottom: 16px;
+} 
+
+.hire-footer-image-wrapper {
+    max-width: 64px;
+}

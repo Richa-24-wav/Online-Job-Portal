@@ -1,0 +1,17 @@
+.alert {
+    background: #0077B6;
+    padding: 16px;
+    max-width: 350px;
+    color: white;
+    border-radius: 6px;
+    position: fixed;
+    top: 80px;
+    left: 50%;
+    transform: translate(-50%, -350%);
+    transition: 0.2s all ease;
+    z-index: 999999;
+}
+
+.show {
+    transform: translate(-50%, 0);
+}

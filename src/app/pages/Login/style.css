@@ -1,0 +1,22 @@
+.login-wrapper {
+    height: 100vh;
+    padding: 0;
+}
+
+.login-image-wrapper {
+    flex: 40%;
+    display: flex;
+    align-items: center;
+}
+
+.login-image {
+    padding: 110px;
+}
+
+.login-form-wrapper {
+    flex: 60%;
+    background-color: white;
+    padding-top: 150px;
+    display: flex;
+    justify-content: center;
+}

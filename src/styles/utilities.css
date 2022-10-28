@@ -1,0 +1,15 @@
+.d-none {
+    display: none;
+}
+
+.d-block {
+    display: block;
+}
+
+.mb-16 {
+    margin-bottom: 16px;
+}
+
+.mb-32 {
+    margin-bottom: 32px;
+}

@@ -1,0 +1,19 @@
+.loginForm-heading {
+    font-size: 32px;
+    line-height: 38px;
+    font-weight: 500;
+    color: #212529;
+}
+
+.loginForm-subheading {
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 400;
+    color: #343A40;
+}
+
+.login-button {
+    margin-top: 30px;
+    width: 350px;
+    padding: 10px 16px;
+}

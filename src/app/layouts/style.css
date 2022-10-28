@@ -1,0 +1,26 @@
+.layout {
+    padding: 30px 40px;
+    display: flex;
+    gap: 25px;
+}
+
+
+@media only screen and (min-width:1024px) {
+    .layout {
+        padding: 30px 0;
+    }
+}
+
+.listLayout-MainContent {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 80%;
+}
+
+.listLayout-SideBar {
+    flex-basis: 20%;
+}
+
+.form-vector {
+    flex: 60%;
+}

@@ -1,0 +1,40 @@
+.sidebar-container {
+    background-color: white;
+    padding: 16px;
+    border-radius: 8px;
+    width: 100%;
+}
+
+.sidebar-container.sticky {
+    position: sticky;
+    top: 25px;
+}
+
+.sidebar-container .button {
+    width: 100%;
+}
+
+.sidebar-block {
+ margin-bottom: 16px;
+}
+
+.sidebar-block-heading {
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 500;
+}
+
+.sidebar-block-header {
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sidebar-block-clear {
+    text-decoration: none;
+    color: #6C757D;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14qpx;
+}

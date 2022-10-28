@@ -1,0 +1,14 @@
+.input-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 10px;
+}
+
+.input-label {
+    font-size: 12px;
+    line-height: 14px;
+    font-weight: 500;
+    color: #495057;
+    margin-bottom: 6px;
+}

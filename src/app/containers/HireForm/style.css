@@ -1,0 +1,26 @@
+.hireForm {
+    flex: 40%;
+    padding-top: 50px;
+}
+
+.hireForm-container {
+    margin-bottom: 32px;
+}
+
+.hireForm-block {
+    margin-bottom: 16px;
+}
+
+.hireForm-heading {
+    font-size: 32px;
+    line-height: 38px;
+    font-weight: 500;
+    color: #212529;
+}
+
+.hireForm-subheading {
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 400;
+    color: #343A40;
+}

@@ -1,0 +1,17 @@
+.button {
+    padding: 8px 16px;
+    border: 0;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    border-radius: 6px;
+    background-color: #03045E;
+    color: white;
+}
+
+/* Grey variant */
+.button.grey {
+    color: #6C757D;
+    background-color: #DEE2E6;
+}

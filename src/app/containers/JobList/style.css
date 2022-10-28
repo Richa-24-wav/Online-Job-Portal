@@ -1,0 +1,60 @@
+.jobList-container {
+    display: flex;
+    gap: 25px;
+}
+
+.jobList {
+    overflow-y: auto;
+    border-radius: 6px;
+    flex-shrink: 0;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.jobList::-webkit-scrollbar {
+    display: none;
+}
+
+.jobList-desciptionCardContainer {
+    height: calc(100vh - 132px);
+    background-color: white;
+    padding: 16px 16px 42px;
+    border-radius: 8px;
+    position: sticky;
+    top: 25px;
+    width: 100%;
+}
+
+.jobList-filter {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    background: white;
+    padding: 4px 8px;
+    border-radius: 6px;
+    justify-content: space-between;
+    width: 350px;
+}
+
+.jobList-filter-button {
+    flex: 1;
+    white-space: nowrap;
+}
+
+.jobList-null-state {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+.jobList-image-wrapper {
+    max-width: 380px;
+    padding: 16px;
+}
+
+.jobList-null-state-note-heading {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+}
